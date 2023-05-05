@@ -1,3 +1,6 @@
+// https://www.youtube.com/watch?v=ma7rUS_vW9M
+//https://www.youtube.com/watch?v=7Q17ubqLfaM
+
 package main
 
 import (

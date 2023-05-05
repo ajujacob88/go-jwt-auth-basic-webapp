@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../go-web-app-with-admin-panel-and-jwt-auth"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "go-web-app-with-admin-panel-and-jwt-auth",
+		"liveServer.settings.port": 5501
+	}
+}
